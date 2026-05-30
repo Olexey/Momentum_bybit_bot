@@ -333,7 +333,95 @@ text(s, Inches(0.85), Inches(5.78), Inches(11.6), Inches(0.7),
 footer(s, 7, dark_bg=True)
 
 # =====================================================================
-# SLIDE 8 — Go-to-market
+# SLIDE 8 — Portfólio de 5 inovações de matéria-prima (grelha)
+# =====================================================================
+s = add_slide()
+bg(s, WHITE)
+section_header(s, "5A. Portfólio de inovação",
+               "5 inovações de matéria-prima — não \"o mesmo, mais barato\"")
+innov = [
+    ("1", "Porcelana\nTranslúcida Vegan", "Fine china SEM osso",
+     "Fosfato de cálcio sintético + wollastonite",
+     "Premium · vegan · ESG", ORANGE),
+    ("2", "BioShield", "Vidrado antimicrobiano",
+     "Iões Ag / Zn / Cu · sem chumbo/cádmio",
+     "Auto-higienizante (hospitality/saúde)", TEAL),
+    ("3", "TerraCircular", "Matéria-prima circular PT",
+     "Cinza de cortiça · biossílica de arroz · conchas · cullet",
+     "−CO₂ + cobertura CBAM", NAVY),
+    ("4", "ChromaSafe", "Cor vibrante segura",
+     "Pigmentos encapsulados em zircão + terras-raras",
+     "Vermelhos food-safe a baixa cozedura", RGBColor(0x6A, 0x4C, 0x93)),
+    ("5", "DuraGlaze /\nSensaGlaze", "Superfícies funcionais",
+     "CTE ajustado + nano (zircónia) + termocrómico",
+     "Durabilidade + efeito \"wow\"", RGBColor(0xB0, 0x3A, 0x2E)),
+]
+x0 = Inches(0.6)
+cw = Inches(2.25)
+gap = Inches(0.135)
+top = Inches(1.95)
+ch = Inches(4.05)
+for i, (num, name, sub, base, benefit, col) in enumerate(innov):
+    bx = Emu(int(x0) + i * (int(cw) + int(gap)))
+    box(s, bx, top, cw, ch, LIGHT)
+    box(s, bx, top, cw, Inches(1.15), col)
+    text(s, bx, Emu(int(top) + int(Inches(0.08))), cw, Inches(0.4),
+         [[(num, 22, True, WHITE)]], align=PP_ALIGN.CENTER)
+    text(s, bx, Emu(int(top) + int(Inches(0.48))), cw, Inches(0.7),
+         [[(line, 13, True, WHITE)] for line in name.split("\n")],
+         align=PP_ALIGN.CENTER, space_after=0, line_spacing=0.95)
+    pad = int(Inches(0.18))
+    iw = Emu(int(cw) - 2 * pad)
+    text(s, Emu(int(bx) + pad), Emu(int(top) + int(Inches(1.3))), iw, Inches(0.5),
+         [[(sub, 11.5, True, col)]], align=PP_ALIGN.CENTER, line_spacing=0.95)
+    text(s, Emu(int(bx) + pad), Emu(int(top) + int(Inches(1.95))), iw, Inches(1.3),
+         [[("Componentes:", 10, True, GREY)], [(base, 10.5, False, DARK)]],
+         align=PP_ALIGN.CENTER, space_after=2, line_spacing=1.0)
+    text(s, Emu(int(bx) + pad), Emu(int(top) + int(Inches(3.25))), iw, Inches(0.7),
+         [[(benefit, 11, True, NAVY)]], align=PP_ALIGN.CENTER, line_spacing=0.95)
+box(s, Inches(0.6), Inches(6.15), Inches(12.1), Inches(0.62), DARK)
+text(s, Inches(0.6), Inches(6.15), Inches(12.1), Inches(0.62),
+     [[("Vendemos componentes que ninguém mais tem — segurança alimentar, circularidade, durabilidade e design funcional.",
+        13, True, WHITE)]], align=PP_ALIGN.CENTER, anchor=MSO_ANCHOR.MIDDLE)
+footer(s, 8)
+
+# =====================================================================
+# SLIDE 9 — Priorização do portfólio de inovação
+# =====================================================================
+s = add_slide()
+bg(s, LIGHT)
+section_header(s, "5A. Portfólio de inovação", "Priorização — o que lançar primeiro e porquê")
+rows = [
+    ("Inovação", "Dor que resolve", "Margem", "I&D", "Prioridade", True),
+    ("3 · TerraCircular", "Custo + CO₂ + CBAM", "Média", "Baixo", "IMEDIATA", False),
+    ("2 · BioShield", "Higiene / valor funcional", "Alta", "Médio", "Alta", False),
+    ("1 · Porcelana Vegan", "Diferenciação premium / ESG", "Alta", "Médio", "Alta (Vista Alegre)", False),
+    ("4 · ChromaSafe", "Cor segura difícil", "Alta", "Médio-alto", "Média", False),
+    ("5 · DuraGlaze/SensaGlaze", "Durabilidade + design", "Média-alta", "Alto", "Faseada", False),
+]
+colx = [Inches(0.6), Inches(3.7), Inches(7.4), Inches(8.7), Inches(10.0)]
+colw = [Inches(3.0), Inches(3.6), Inches(1.2), Inches(1.2), Inches(2.7)]
+ry = Inches(1.95)
+rh = Inches(0.62)
+for r, row in enumerate(rows):
+    ty = Emu(int(ry) + r * int(rh))
+    is_head = row[5]
+    rowcol = NAVY if is_head else (WHITE if r % 2 else RGBColor(0xE7, 0xEE, 0xF1))
+    box(s, Inches(0.6), ty, Inches(12.1), rh, rowcol)
+    for c in range(5):
+        tcol = WHITE if is_head else (ORANGE if (c == 4 and r == 1) else DARK)
+        bold = is_head or (c == 0) or (c == 4 and r == 1)
+        text(s, Emu(int(colx[c]) + int(Inches(0.1))), ty, colw[c], rh,
+             [[(row[c], 12.5 if is_head else 12, bold, tcol)]], anchor=MSO_ANCHOR.MIDDLE)
+box(s, Inches(0.6), Inches(5.75), Inches(12.1), Inches(1.0), TEAL)
+text(s, Inches(0.9), Inches(5.9), Inches(11.5), Inches(0.75),
+     [[("Sequência: ", 15, True, WHITE),
+       ("TerraCircular + BioShield já  →  Porcelana Vegan como gancho na Vista Alegre  →  ChromaSafe e DuraGlaze sobre a base Eco-Low-Fire.",
+        15, False, WHITE)]], anchor=MSO_ANCHOR.MIDDLE, line_spacing=1.05)
+footer(s, 9)
+
+# =====================================================================
+# SLIDE 10 — Go-to-market
 # =====================================================================
 s = add_slide()
 bg(s, WHITE)
@@ -356,10 +444,10 @@ text(s, Inches(0.9), Inches(4.65), Inches(11.5), Inches(0.5),
 steps = "1. Visita de diagnóstico gratuita (relatório de oportunidade)   →   2. Piloto numa única linha (baixo risco)   →   3. Resultado quantificado em €/ano   →   4. Contrato com SLA de consistência   →   5. Expandir + plataforma de IA = fidelização"
 text(s, Inches(0.9), Inches(5.2), Inches(11.5), Inches(1.3),
      [[(steps, 14, False, DARK)]], line_spacing=1.2)
-footer(s, 8)
+footer(s, 10)
 
 # =====================================================================
-# SLIDE 9 — Pilotos
+# SLIDE 11 — Pilotos
 # =====================================================================
 s = add_slide()
 bg(s, LIGHT)
@@ -392,10 +480,10 @@ bullets(s, Inches(7.0), Inches(3.0), Inches(5.5), Inches(3.2), [
     "Resposta do engenheiro ≤ 48h registada",
     "Poupança em €/ano validada pela equipa de processo",
 ], size=13.5, gap=10)
-footer(s, 9)
+footer(s, 11)
 
 # =====================================================================
-# SLIDE 10 — Plano a 24 meses
+# SLIDE 12 — Plano a 24 meses
 # =====================================================================
 s = add_slide()
 bg(s, WHITE)
@@ -425,10 +513,10 @@ for i, (h, items, col) in enumerate(phases):
     box(s, bx, Inches(3.1), cw, Inches(3.0), LIGHT)
     bullets(s, Emu(int(bx) + int(Inches(0.2))), Inches(3.3),
             Emu(int(cw) - int(Inches(0.35))), Inches(2.7), items, size=12, gap=10)
-footer(s, 10)
+footer(s, 12)
 
 # =====================================================================
-# SLIDE 11 — KPIs
+# SLIDE 13 — KPIs
 # =====================================================================
 s = add_slide()
 bg(s, LIGHT)
@@ -453,10 +541,10 @@ for i, (k, v) in enumerate(kpis):
          [[(v, 34, True, cols[col])]], align=PP_ALIGN.CENTER)
     text(s, bx, Emu(int(by) + int(Inches(1.25))), cw, Inches(0.5),
          [[(k, 14, True, NAVY)]], align=PP_ALIGN.CENTER)
-footer(s, 11)
+footer(s, 13)
 
 # =====================================================================
-# SLIDE 12 — Resumo / pitch de elevador
+# SLIDE 14 — Resumo / pitch de elevador
 # =====================================================================
 s = add_slide()
 bg(s, NAVY)
@@ -475,7 +563,7 @@ text(s, Inches(0.9), Inches(3.25), Inches(11.5), Inches(3.3),
         16, False, RGBColor(0xD8,0xE2,0xE8))],
       [("Provamo-lo na Vista Alegre e na Costa Verde — e escalamos pelo cluster em 24 meses.",
         17, True, ORANGE)]], space_after=12, line_spacing=1.05)
-footer(s, 12, dark_bg=True)
+footer(s, 14, dark_bg=True)
 
 out = "Vidres_Portugal_Apresentacao_Estrategica.pptx"
 prs.save(out)

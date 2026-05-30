@@ -16,6 +16,7 @@
 3. [Pain Points of Portuguese Manufacturers](#3-pain-points-of-portuguese-manufacturers)
 4. [Cost Optimization Strategy](#4-cost-optimization-strategy)
 5. [Innovation Roadmap](#5-innovation-roadmap)
+   - [5A. Five Raw-Material Innovations Portfolio](#-5a-five-raw-material-innovations-portfolio)
 6. [Go-to-Market for Key Accounts](#6-go-to-market-for-key-accounts)
 7. [Pilot Projects — Vista Alegre / Costa Verde](#7-pilot-projects)
 8. [24-Month Execution Plan](#8-24-month-execution-plan)
@@ -242,6 +243,68 @@ and the platform **recommends a starting recipe** (from the 5 base systems + add
 ```
 
 > **Innovation principle:** ship the **energy win first** (immediate, measurable, bankable), use it to earn trust and data, then layer the **AI platform** to make the relationship structurally sticky.
+
+---
+
+## ⭐ 5A. Five Raw-Material Innovations Portfolio
+
+> **Why this matters:** we do not want to sell "the same as the competitor, cheaper." We want the customer to choose us **for innovation in the raw material itself** — components and chemistries that Torrecid / Esmalglass / Ferro do not offer as a local, agile package. Each innovation creates a **value conversation** (and margin), not a €/kg price war.
+
+These five innovations **complement** the two flagships (Eco-Low Fire + AI Platform) and form an "innovation menu" to open doors across segments.
+
+### Innovation 1 — **Vegan Translucent Fine China** (bone-china look, no bone)
+
+- **Concept:** *bone-china* translucency and whiteness **without bone ash** (animal-origin calcium phosphate).
+- **Raw-material basis:** **synthetic calcium phosphate** + **wollastonite** (calcium silicate) for controlled translucency and nucleation.
+- **Customer benefit:** premium + **vegan / cruelty-free / ESG** storytelling; top whiteness/translucency; more consistent body (synthetic origin = less variation than bone).
+- **Target:** premium tableware (Vista Alegre, Spal) for sustainability-sensitive markets (Northern Europe, USA).
+- **Pitch:** *"Fine-china translucency, 100% animal-free — a brand story the end customer pays for."*
+
+### Innovation 2 — **BioShield** (antimicrobial food-contact glaze)
+
+- **Concept:** **self-sanitizing** surface that reduces bacterial load, safe for food contact.
+- **Raw-material basis:** frits doped with stabilized **silver / zinc / copper ions** in the glass matrix, **lead- and cadmium-free**.
+- **Customer benefit:** differentiation in **hospitality, healthcare, kids'**; post-pandemic hygiene argument; certifiable (ISO 22196).
+- **Target:** hotelware, professional tableware, sanitaryware (Sanindusa), children's pieces.
+- **Pitch:** *"Plates and sanitaryware that stay hygienic between washes — an attribute, not a cost."*
+
+### Innovation 3 — **TerraCircular** (raw materials from Portuguese by-products)
+
+- **Concept:** frits and engobes formulated from **Iberian agro-industrial by-products**, turning local waste into raw material.
+- **Raw-material basis:** **cork ash**, **rice-husk biosilica**, **shell/eggshell calcium**, **recycled glass cullet** — as fluxes, opacifiers and silica/calcium sources.
+- **Customer benefit:** **lower CO₂ footprint** + **CBAM** hedge; ESG reporting; "100% Iberian/Portuguese origin" narrative; lower raw-material cost.
+- **Target:** cross-segment — especially strong for "Made in Portugal" sustainable brands.
+- **Pitch:** *"From Portuguese cork and rice to your glaze — real, certifiable circularity with a lower footprint."*
+
+### Innovation 4 — **ChromaSafe** (vibrant color, heavy-metal-free)
+
+- **Concept:** palette of **vivid, stable colors** (reds, corals, oranges, yellows, deep blues) **free of lead, cadmium and heavy metals**, stable at low firing.
+- **Raw-material basis:** **zircon-encapsulated pigments** + **rare-earth oxides**, compatible with the Eco-Low-Fire system.
+- **Customer benefit:** solves the classic pain — *food-safe bright colors are hard*; frees designers; full compliance (FDA/EU migration).
+- **Target:** premium decorative & collection tableware, design pieces, kids'.
+- **Pitch:** *"The reds and corals your designers want — food-safe and stable at low fire."*
+
+### Innovation 5 — **DuraGlaze / SensaGlaze** (durable & functional surfaces)
+
+- **Concept:** family of **ultra-durable, functional glazes**: anti-craze, scratch- and thermal-shock-resistant, *easy-clean* (lotus effect) and — optional — **thermochromic effect** (reveals a pattern with a hot drink).
+- **Raw-material basis:** engineered **CTE matching** to the body + **nanostructured** additions (zirconia/alumina) and encapsulated thermochromic pigments.
+- **Customer benefit:** **greater durability** under dishwasher cycles and thermal shock (hotelware); fewer craze rejects; **functional-design** differentiation (thermochromic "wow").
+- **Target:** hotelware/restaurant (durability), premium & promotional tableware (thermochromic effect).
+- **Pitch:** *"Tableware that lasts 10,000 more washes — or a mug that reveals a pattern with the coffee. Function and design commodity can't match."*
+
+### How to present the portfolio
+
+| Innovation | Pain solved | Margin | R&D effort | Priority |
+|---|---|---|---|---|
+| 1 · Vegan Fine China | Premium / ESG differentiation | High | Medium | High (Vista Alegre) |
+| 2 · BioShield | Hygiene / functional value | High | Medium | High (hospitality/sanitary) |
+| 3 · TerraCircular | Cost + CO₂ + CBAM | Medium | Low | **Immediate** (fast to launch) |
+| 4 · ChromaSafe | Hard food-safe color | High | Medium-high | Medium |
+| 5 · DuraGlaze/SensaGlaze | Durability + design | Medium-high | High | Phased (v1 durable → v2 effects) |
+
+> **Portfolio rule:** launch **TerraCircular** first (low R&D, already tells the cost+sustainability story) and **BioShield** (concrete, sellable attribute), use **Vegan Fine China** as the premium hook at Vista Alegre, and develop **ChromaSafe** and **DuraGlaze/SensaGlaze** on top of the Eco-Low-Fire base.
+
+> **Slide message:** *"We don't sell the same frit cheaper. We sell components nobody else has — food safety, circular sustainability, durability and functional design."*
 
 ---
 

@@ -16,6 +16,7 @@
 3. [Pontos de dor dos fabricantes portugueses](#3-pontos-de-dor-dos-fabricantes-portugueses)
 4. [Estratégia de otimização de custos](#4-estratégia-de-otimização-de-custos)
 5. [Roteiro de inovação](#5-roteiro-de-inovação)
+   - [5A. Portfólio de 5 inovações de matéria-prima](#-5a-portfólio-de-5-inovações-de-matéria-prima)
 6. [Estratégia de entrada nas contas-chave](#6-estratégia-de-entrada-nas-contas-chave)
 7. [Projetos-piloto — Vista Alegre / Costa Verde](#7-projetos-piloto)
 8. [Plano de execução a 24 meses](#8-plano-de-execução-a-24-meses)
@@ -242,6 +243,78 @@ e a plataforma **recomenda uma receita de partida** (a partir dos 5 sistemas-bas
 ```
 
 > **Princípio de inovação:** entregar primeiro a **vitória energética** (imediata, mensurável, monetizável), usá-la para ganhar confiança e dados, e depois sobrepor a **plataforma de IA** para tornar a relação estruturalmente pegajosa.
+
+---
+
+## ⭐ 5A. Portfólio de 5 Inovações de Matéria-Prima
+
+> **Porquê isto importa:** não queremos vender "o mesmo da concorrência, mais barato". Queremos que o cliente nos escolha **pela inovação na própria matéria-prima** — componentes e químicas que a Torrecid/Esmalglass/Ferro não oferecem como pacote local e ágil. Cada inovação cria uma **conversa de valor** (e margem), não uma guerra de preço/kg.
+
+Estas 5 inovações **complementam** as duas bandeiras (Eco-Low Fire + Plataforma de IA) e formam um "cardápio de inovação" para abrir portas em diferentes segmentos.
+
+### Inovação 1 — **Porcelana Translúcida Vegan** (fine china sem osso)
+
+| | |
+|---|---|
+| **Conceito** | Translucidez e brancura de *bone china* **sem cinza de osso** (fosfato de cálcio de origem animal). |
+| **Base de matéria-prima** | Fosfato de cálcio **sintético** + **wollastonite** (silicato de cálcio) como agente de translucidez e nucleação controlada. |
+| **Benefício para o cliente** | Premium + storytelling **vegan / cruelty-free / ESG**; brancura e translucidez de topo; pasta mais consistente (origem sintética = menos variação que o osso). |
+| **Segmento-alvo** | Loiça premium (Vista Alegre, Spal) para mercados sensíveis a sustentabilidade (Norte da Europa, EUA). |
+| **Argumento-chave** | *"A translucidez da fine china, 100% sem origem animal — uma história de marca que o cliente final paga."* |
+
+### Inovação 2 — **BioShield** (vidrado antimicrobiano para contacto alimentar)
+
+| | |
+|---|---|
+| **Conceito** | Superfície **auto-higienizante** que reduz a carga bacteriana, segura para contacto com alimentos. |
+| **Base de matéria-prima** | Fritas dopadas com **iões de prata / zinco / cobre** estabilizados na matriz vítrea, **sem chumbo e sem cádmio**. |
+| **Benefício para o cliente** | Diferenciação em **hospitality, saúde e infantil**; argumento de higiene pós-pandemia; certificável (ISO 22196). |
+| **Segmento-alvo** | Hotelware, louça profissional, sanitário (Sanindusa), peças infantis. |
+| **Argumento-chave** | *"Pratos e sanitários que se mantêm higiénicos entre lavagens — um atributo, não um custo."* |
+
+### Inovação 3 — **TerraCircular** (matéria-prima de subprodutos portugueses)
+
+| | |
+|---|---|
+| **Conceito** | Fritas e engobes formulados com **subprodutos agroindustriais ibéricos**, transformando resíduo local em matéria-prima. |
+| **Base de matéria-prima** | **Cinza de cortiça**, **biossílica de casca de arroz**, **cálcio de conchas/casca de ovo**, **casco de vidro reciclado** — como fundentes, opacificantes e fontes de sílica/cálcio. |
+| **Benefício para o cliente** | **Menor pegada de CO₂** + cobertura ao **CBAM**; relatório ESG; narrativa "100% origem ibérica/portuguesa"; menor custo de matéria-prima. |
+| **Segmento-alvo** | Transversal — particularmente forte para marcas com posicionamento "Made in Portugal" sustentável. |
+| **Argumento-chave** | *"Da cortiça e do arroz portugueses ao seu vidrado — circularidade real, certificável, com menor pegada."* |
+
+### Inovação 4 — **ChromaSafe** (cor vibrante sem metais pesados)
+
+| | |
+|---|---|
+| **Conceito** | Paleta de cores **vivas e estáveis** (vermelhos, corais, laranjas, amarelos, azuis profundos) **sem chumbo, cádmio nem metais pesados** e estável a baixa cozedura. |
+| **Base de matéria-prima** | **Pigmentos encapsulados em zircão** + **óxidos de terras-raras**, compatíveis com o sistema Eco-Low-Fire. |
+| **Benefício para o cliente** | Resolve a dor clássica — *cores vivas seguras para alimentos são difíceis*; liberta os designers; conformidade total (FDA/UE migração). |
+| **Segmento-alvo** | Loiça decorativa premium e de coleção, peças de design, infantil. |
+| **Argumento-chave** | *"Os vermelhos e corais que os seus designers querem — seguros para alimentos e estáveis em baixa cozedura."* |
+
+### Inovação 5 — **DuraGlaze / SensaGlaze** (superfícies duráveis e funcionais)
+
+| | |
+|---|---|
+| **Conceito** | Família de vidrados **ultra-duráveis e funcionais**: anti-craquelê, resistentes a risco e choque térmico, *easy-clean* (efeito lótus) e — opcional — **efeito termocrómico** (revela padrão com bebida quente). |
+| **Base de matéria-prima** | Engenharia de **coeficiente de expansão (CTE) ajustado** à pasta + adições **nanoestruturadas** (zircónia/alumina) e pigmentos termocrómicos encapsulados. |
+| **Benefício para o cliente** | **Maior durabilidade** em ciclos de máquina de lavar e choque térmico (hotelware); menos rejeições por craquelê; diferenciação de **design funcional** (efeito "uau" termocrómico). |
+| **Segmento-alvo** | Hotelware/restauração (durabilidade), loiça premium e promocional (efeito termocrómico). |
+| **Argumento-chave** | *"Loiça que dura mais 10 000 lavagens — ou uma caneca que revela um padrão com o café. Função e design que a commodity não tem."* |
+
+### Como apresentar o portfólio
+
+| Inovação | Dor que resolve | Margem | Esforço de I&D | Prioridade |
+|---|---|---|---|---|
+| 1 · Porcelana Vegan | Diferenciação premium / ESG | Alta | Médio | Alta (Vista Alegre) |
+| 2 · BioShield | Higiene / valor funcional | Alta | Médio | Alta (hospitality/sanitário) |
+| 3 · TerraCircular | Custo + CO₂ + CBAM | Média | Baixo | **Imediata** (rápido de lançar) |
+| 4 · ChromaSafe | Cor segura difícil | Alta | Médio-alto | Média |
+| 5 · DuraGlaze/SensaGlaze | Durabilidade + design | Média-alta | Alto | Faseada (v1 durável → v2 efeitos) |
+
+> **Regra de portefólio:** lançar primeiro **TerraCircular** (baixo I&D, conta a história de custo+sustentabilidade já) e **BioShield** (atributo concreto e vendável), usar **Porcelana Vegan** como gancho premium na Vista Alegre, e desenvolver **ChromaSafe** e **DuraGlaze/SensaGlaze** sobre a base Eco-Low-Fire.
+
+> **Mensagem de slide:** *"Não vendemos a mesma frita mais barata. Vendemos componentes que ninguém mais tem — segurança alimentar, sustentabilidade circular, durabilidade e design funcional."*
 
 ---
 
